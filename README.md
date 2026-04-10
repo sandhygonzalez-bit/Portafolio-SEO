@@ -73,3 +73,7 @@ Este caso demuestra que el éxito en el factoring moderno depende del equilibrio
 
 https://fapro.app/blog/lateral-sf/
 ---
+---
+
+> [!NOTE]
+> ### 🚧 Portafolio en construcción 🤓
