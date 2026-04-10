@@ -24,5 +24,5 @@ La minería de datos es hoy un elemento clave para la industria financiera. Perm
 * **Diferenciación:** Ventaja competitiva mediante modelos predictivos.
 
 > "La transformación digital no es solo tecnología, es contar con soluciones escalables que aseguren resultados ágiles y seguros."
-
+https://fapro.app/blog/mineria-datos/
 ---
